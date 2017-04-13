@@ -4,6 +4,6 @@ lazy val root = (project in file(".")).
     version := "0.1.0",
     scalaVersion := "2.12.1",
     libraryDependencies ++= Seq(
-      "org.json" % "json" % "20160810"  
+      "org.json" % "json" % "20160810"
     )
   )
